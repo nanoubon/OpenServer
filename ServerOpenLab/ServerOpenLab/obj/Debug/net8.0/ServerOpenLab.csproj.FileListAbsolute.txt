@@ -1,0 +1,14 @@
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\bin\Debug\net8.0\ServerOpenLab.exe
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\bin\Debug\net8.0\ServerOpenLab.deps.json
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\bin\Debug\net8.0\ServerOpenLab.runtimeconfig.json
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\bin\Debug\net8.0\ServerOpenLab.dll
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\bin\Debug\net8.0\ServerOpenLab.pdb
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\obj\Debug\net8.0\ServerOpenLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\obj\Debug\net8.0\ServerOpenLab.AssemblyInfoInputs.cache
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\obj\Debug\net8.0\ServerOpenLab.AssemblyInfo.cs
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\obj\Debug\net8.0\ServerOpenLab.csproj.CoreCompileInputs.cache
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\obj\Debug\net8.0\ServerOpenLab.dll
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\obj\Debug\net8.0\refint\ServerOpenLab.dll
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\obj\Debug\net8.0\ServerOpenLab.pdb
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\obj\Debug\net8.0\ServerOpenLab.genruntimeconfig.cache
+C:\Users\progr\Documents\Git\OpenServer\ServerOpenLab\ServerOpenLab\obj\Debug\net8.0\ref\ServerOpenLab.dll
